@@ -5,12 +5,12 @@
 📄 Atualmente estou cursando Bacharelado em Engenharia de Software e tecnologo em ADS na UniÁmerica.
 
 <div>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=en" alt="daniella">
-    </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniellaDem&show_icons=true&locale=en&layout=compact" alt="daniella" />
-    </p>
+   <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDemshow_icons=true&locale=pt-br&theme=dracula&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
+    </div>
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaeDem&layout=compact&border_radius=20&locale=pt-br&theme=dracula&hide=css" alt="DaniellaDem" />
+    </div> <br />
 </div>
 
 <br />
