@@ -6,7 +6,7 @@
 
 <div>
    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDemshow_icons=true&locale=pt-br&theme=dracula&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=pt-br&theme=dracula&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
     </div>
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaDem&layout=compact&border_radius=20&locale=pt-br&theme=dracula&hide=css" alt="DaniellaDem" />
