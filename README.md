@@ -1,16 +1,24 @@
-## Hi there 👋
+## Daniella E. M.
 
-<!--
-**DaniellaDem/DaniellaDem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Formada em Técnico de Informática pela Escola Barão do Rio Branco, onde tive meu primeiro contato com desenvolvimento web e suporte técnico. <br />
+📄 Atualmente estou cursando Bacharelado em Engenharia de Software e tecnologo em ADS na UniÁmerica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=en" alt="daniella">
+    </p>
+    <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniellaDem&show_icons=true&locale=en&layout=compact" alt="daniella" />
+    </p>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
