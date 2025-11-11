@@ -9,7 +9,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=pt-br&title_color=ff9999&text_color=ffdede&icon_color=ff9999&bg_color=590202&cache_seconds=2300&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
     </div>
       <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=pt-br&title_color=9f6309&text_color=e7b30b&icon_color=9f6309&bg_color=F2E205&cache_seconds=2300&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=pt-br&title_color=704013&text_color=e7b30b&icon_color=704013&bg_color=fbe464&cache_seconds=2300&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
     </div>
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaDem&layout=compact&border_radius=20&locale=pt-br&theme=dracula&hide=css" alt="DaniellaDem" />
