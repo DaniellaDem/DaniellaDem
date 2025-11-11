@@ -14,6 +14,9 @@
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaDem&layout=compact&border_radius=20&locale=pt-br&theme=dracula&hide=css" alt="DaniellaDem" />
     </div> <br />
+       <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaDem&layout=compacthttps://github.com/anuraghazra/github-readme-stats">
+    </div> <br /
 </div>
 
 <br />
