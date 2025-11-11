@@ -11,12 +11,6 @@
       <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaniellaDem&show_icons=true&locale=pt-br&title_color=412007&text_color=704013&icon_color=412007&bg_color=fbe464&cache_seconds=2300&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="DaniellaDem" />
     </div>
-    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaDem&layout=compact&border_radius=20&locale=pt-br&theme=dracula&hide=css" alt="DaniellaDem" />
-    </div> <br />
-       <div>
-        <img align="left" src="[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaDem&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)">
-    </div> <br /
 </div>
 
 <br />
